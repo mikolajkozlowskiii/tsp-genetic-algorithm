@@ -154,3 +154,12 @@ Below are the performance metrics (mean, standard deviation, percentiles, and ma
 
 ### Average results of each generation plots
 The plots below depict the average results per generation for different configurations of crossover, mutation, and selection operators in solving the Traveling Salesman Problem (TSP). These results are computed as follows:
+<img width="914" alt="image" src="https://github.com/user-attachments/assets/6076d263-ba94-47d2-8490-840065467ba2" />
+
+Plots for best selection type in tests, which is RANK
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/f7ca3db5-92b6-4f82-9d9f-98e08c137bb9" />
+
+Plots for best crossover type in tests, which is OX1
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/254727b1-621a-4731-99b0-dc5b43fc5fba" />
+
+
